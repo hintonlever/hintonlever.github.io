@@ -2,7 +2,7 @@
 layout: post
 title:  "Linear Regression"
 date:   2015-06-07 19:51:00
-categories: Linear Regression Prediction
+tags: Linear Regression Prediction
 type: doc
 ---
 

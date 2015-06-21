@@ -37,7 +37,7 @@ $(document).ready(function() {
 
     $()
 
-    d3.csv("../data/Top10FMCG.csv", function(d) {
+    d3.csv("/data/Top10FMCG.csv", function(d) {
 
         var temp = {"key": "Top 10 FMCG",
             "values": d3.nest()

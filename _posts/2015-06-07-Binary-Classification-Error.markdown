@@ -2,7 +2,7 @@
 layout: post
 title:  "Binary Classification Prediction Error"
 date:   2015-06-07 19:41:00
-categories: Statistics
+tags: Statistics
 type: doc
 ---
 

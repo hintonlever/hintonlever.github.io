@@ -20,9 +20,17 @@
       <div class="wrapper">
           <div id="vis-container">
           </div>
+          {% for tag in page.tags %}
+          <div class="tag">{{ tag }}</div>
+          {% endfor %}
+          
           <div id="vis-information">
+              
               {{content}}
           </div>
+          
+                 
+
           
       </div>
     </div>

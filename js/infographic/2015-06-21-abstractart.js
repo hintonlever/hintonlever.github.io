@@ -18,16 +18,13 @@ $(document).ready(function() {
         svg.append("circle")
                 .attr("cx", m[0])
                 .attr("cy", m[1])
-                .attr("r", 1e-6)
+                .attr("r", 25)
                 .on("mouseout",startDraw)
 
                 .style("fill", z(++i))
                 .style("stroke-opacity", 1)
-                .transition()
-                .duration(100)
-                .ease(Math.sqrt)
-                .attr("r", 25)
-                
+
+
 
 
     }

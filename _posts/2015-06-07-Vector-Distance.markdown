@@ -2,7 +2,7 @@
 layout: post
 title:  "Distance measures"
 date:   2015-06-07 20:05:00
-categories: Distance Modelling
+tags: Distance Modelling
 type: doc
 ---
 

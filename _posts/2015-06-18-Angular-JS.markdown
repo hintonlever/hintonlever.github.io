@@ -2,7 +2,7 @@
 layout: post
 title:  "Angular JS"
 date:   2015-06-07 18:15:00
-categories: Javascript
+tags: Javascript
 type: doc
 ---
 
