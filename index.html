@@ -6,7 +6,7 @@ permalink: /visualisations/
 
 <div class="home">
 
-  <h1 class="page-heading">I am the home page</h1>
+  <h1 class="page-heading">Visualisations</h1>
 
   <ul class="post-list">
          <div class="central-container">
@@ -16,6 +16,7 @@ permalink: /visualisations/
             <div class="title">
                     {{post.title}}
                 <div class="date">{{ post.date | date: "%b %-d, %Y" }}</div>
+                <div class="tags">{{ post.tags }}</div>
             </div>
 
             <a href="{{ post.url | prepend: site.baseurl }}"></a>
