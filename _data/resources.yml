@@ -41,5 +41,15 @@
 - name: Angular JS Tutorial
   link: http://www.toptal.com/angular-js/a-step-by-step-guide-to-your-first-angularjs-app
   description: A Step-by-Step Guide to Your First AngularJS App
-  category: Website, Angular JS
+  category: [Website, Angular JS]
   
+  
+- name: Data sources
+  link:  https://github.com/caesar0301/awesome-public-datasets
+  description: A list of useful data sources
+  category: [Data]
+  
+- name: Smithsonian Cooper-Hewitt National Design Museum
+  link:  https://github.com/cooperhewitt/collection
+  description: A list of useful data sources
+  category: [Art]
