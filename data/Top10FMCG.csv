@@ -1,0 +1,956 @@
+Company,BrandGroup,Brand,Size
+General Mills,Baking products,Betty Crocker,1
+General Mills,Baking products,Bisquick,1
+General Mills,Baking products,Gold Medal,1
+General Mills,Baking products,Jus-Rol,1
+General Mills,Baking products,Knack & Back,1
+General Mills,Baking products,La Salteña,1
+General Mills,Baking products,Pillsbury,1
+General Mills,Baking products,Pillsbury Atta,1
+General Mills,Baking products,Yoki,1
+General Mills,Cereals,Big G cereals,1
+General Mills,Cereals,Cascadian Farm,1
+General Mills,Cereals,Cheerios,1
+General Mills,Cereals,Chex,1
+General Mills,Cereals,Cinnamon Toast Crunch,1
+General Mills,Cereals,Fiber One,1
+General Mills,Cereals,Kix,1
+General Mills,Cereals,Lucky Charms,1
+General Mills,Cereals,Monsters,1
+General Mills,Cereals,Total,1
+General Mills,Cereals,Trix,1
+General Mills,Cereals,Wheaties,1
+General Mills,Dough / Pastries,Jus-Rol,1
+General Mills,Dough / Pastries,Knack & Back,1
+General Mills,Dough / Pastries,Pillsbury,1
+General Mills,Fruit,Cascadian Farm,1
+General Mills,Ice Cream,Häagen-Dazs,1
+General Mills,Meals,Betty Crocker,1
+General Mills,Meals,Diablitos Underwood,1
+General Mills,Meals,Good Earth,1
+General Mills,Meals,Green Giant,1
+General Mills,Meals,Hamburger Helper,1
+General Mills,Meals,Macaroni Grill,1
+General Mills,Meals,Old El Paso,1
+General Mills,Meals,V.Pearl,1
+General Mills,Meals,Wanchai Ferry,1
+General Mills,Meals,Yoki,1
+General Mills,Organic / natural,Cascadian Farm,1
+General Mills,Organic / natural,Food Should Taste Good,1
+General Mills,Organic / natural,Lärabar,1
+General Mills,Organic / natural,Muir Glen,1
+General Mills,Pasta,Frescarini,1
+General Mills,Pasta,Latina,1
+General Mills,Pasta,La Salteña,1
+General Mills,Pasta,Wanchai Ferry,1
+General Mills,Pizza,Totino's / Jeno's,1
+General Mills,Snacks,Bugles,1
+General Mills,Snacks,Cascadian Farm,1
+General Mills,Snacks,Chex,1
+General Mills,Snacks,Food Should Taste Good,1
+General Mills,Snacks,Fiber One,1
+General Mills,Snacks,Fruit Snacks,1
+General Mills,Snacks,Gardetto's,1
+General Mills,Snacks,Lärabar,1
+General Mills,Snacks,Nature Valley,1
+General Mills,Snacks,Yoki,1
+General Mills,Soup,Muir Glen,1
+General Mills,Soup,Progresso,1
+General Mills,Vegetables,Cascadian Farm,1
+General Mills,Vegetables,Green Giant,1
+General Mills,Vegetables,Muir Glen,1
+General Mills,Yogurt,Liberté,1
+General Mills,Yogurt,Mountain High,1
+General Mills,Yogurt,Yoplait,1
+General Mills,Yogurt,Yoplait France,1
+Reckitt Benckiser Group ,Powerbrands,Vanish,1
+Reckitt Benckiser Group ,Powerbrands,Calgon,1
+Reckitt Benckiser Group ,Powerbrands,Woolite,1
+Reckitt Benckiser Group ,Powerbrands,Lysol,1
+Reckitt Benckiser Group ,Powerbrands,Dettol,1
+Reckitt Benckiser Group ,Powerbrands,Durex,1
+Reckitt Benckiser Group ,Powerbrands,Scholl,1
+Reckitt Benckiser Group ,Powerbrands,Cillit Bang,1
+Reckitt Benckiser Group ,Powerbrands,Harpic,1
+Reckitt Benckiser Group ,Powerbrands,Finish,1
+Reckitt Benckiser Group ,Powerbrands,Air Wick,1
+Reckitt Benckiser Group ,Powerbrands,Mortein,1
+Reckitt Benckiser Group ,Powerbrands,Strepsils,1
+Reckitt Benckiser Group ,Powerbrands,Mucinex,1
+Reckitt Benckiser Group ,Powerbrands,Nurofen,1
+Reckitt Benckiser Group ,Powerbrands,Gaviscon,1
+Reckitt Benckiser Group ,Powerbrands,Veet,1
+Reckitt Benckiser Group ,Powerbrands,Clearasil,1
+Reckitt Benckiser Group ,Powerbrands,French's,1
+Reckitt Benckiser Group ,Other,Aerogard,1
+Reckitt Benckiser Group ,Other,Amphyl,1
+Reckitt Benckiser Group ,Other,Bonjela,1
+Reckitt Benckiser Group ,Other,Brasso,1
+Reckitt Benckiser Group ,Other,Brio,1
+Reckitt Benckiser Group ,Other,Bryza,1
+Reckitt Benckiser Group ,Other,Calgonit,1
+Reckitt Benckiser Group ,Other,Cattlemen's,1
+Reckitt Benckiser Group ,Other,Ceraclen,1
+Reckitt Benckiser Group ,Other,Cherry Blossom,1
+Reckitt Benckiser Group ,Other,Clean and Smooth,1
+Reckitt Benckiser Group ,Other,Cling,1
+Reckitt Benckiser Group ,Other,Cling Free,1
+Reckitt Benckiser Group ,Other,Cobra Brilliant Shiner,1
+Reckitt Benckiser Group ,Other,Colon,1
+Reckitt Benckiser Group ,Other,d-Con,1
+Reckitt Benckiser Group ,Other,Coral,1
+Reckitt Benckiser Group ,Other,dip-it,1
+Reckitt Benckiser Group ,Other,Disprin,1
+Reckitt Benckiser Group ,Other,Dosia,1
+Reckitt Benckiser Group ,Other,Easy-Off,1
+Reckitt Benckiser Group ,Other,Easy On,1
+Reckitt Benckiser Group ,Other,Elena,1
+Reckitt Benckiser Group ,Other,Frank's RedHot,1
+Reckitt Benckiser Group ,Other,French's Foods,1
+Reckitt Benckiser Group ,Other,Glass Mates,1
+Reckitt Benckiser Group ,Other,Glass Plus,1
+Reckitt Benckiser Group ,Other,Glassex,1
+Reckitt Benckiser Group ,Other,Hoffmann's,1
+Reckitt Benckiser Group ,Other,Intima Liasan / Intima Bidex,1
+Reckitt Benckiser Group ,Other,Kalia,1
+Reckitt Benckiser Group ,Other,Kaltron,1
+Reckitt Benckiser Group ,Other,Lanacane,1
+Reckitt Benckiser Group ,Other,Lanacort,1
+Reckitt Benckiser Group ,Other,Lanza,1
+Reckitt Benckiser Group ,Other,Lemsip,1
+Reckitt Benckiser Group ,Other,Lewis Red Devil,1
+Reckitt Benckiser Group ,Other,Lime-A-Way,1
+Reckitt Benckiser Group ,Other,Lovela,1
+Reckitt Benckiser Group ,Other,Masterpiece Metalist,1
+Reckitt Benckiser Group ,Other,Mop & Glo,1
+Reckitt Benckiser Group ,Other,Mr. Sheen,1
+Reckitt Benckiser Group ,Other,Mr. Min,1
+Reckitt Benckiser Group ,Other,Nenuco,1
+Reckitt Benckiser Group ,Other,Neutra-Air,1
+Reckitt Benckiser Group ,Other,NoSalt,1
+Reckitt Benckiser Group ,Other,Noxon,1
+Reckitt Benckiser Group ,Other,Nugget,1
+Reckitt Benckiser Group ,Other,Nurofen for Children,1
+Reckitt Benckiser Group ,Other,Old English,1
+Reckitt Benckiser Group ,Other,Perk,1
+Reckitt Benckiser Group ,Other,Poliflor Pratic,1
+Reckitt Benckiser Group ,Other,Poliflor Maximo Brilho,1
+Reckitt Benckiser Group ,Other,Precision Blend,1
+Reckitt Benckiser Group ,Other,Quanto,1
+Reckitt Benckiser Group ,Other,Resolve,1
+Reckitt Benckiser Group ,Other,Rid-X,1
+Reckitt Benckiser Group ,Other,Robin Blue,1
+Reckitt Benckiser Group ,Other,Sagrotan,1
+Reckitt Benckiser Group ,Other,Sani Flush,1
+Reckitt Benckiser Group ,Other,Senokot,1
+Reckitt Benckiser Group ,Other,Silvo,1
+Reckitt Benckiser Group ,Other,Sipuro,1
+Reckitt Benckiser Group ,Other,Spray 'n Starch,1
+Reckitt Benckiser Group ,Other,Suboxone,1
+Reckitt Benckiser Group ,Other,Vani-Sol,1
+Reckitt Benckiser Group ,Other,Vitroclen,1
+Reckitt Benckiser Group ,Other,Vivid,1
+Reckitt Benckiser Group ,Other,Wenol,1
+Reckitt Benckiser Group ,Other,Windolene,1
+Reckitt Benckiser Group ,Other,Wizard,1
+Reckitt Benckiser Group ,Other,Yes,1
+Reckitt Benckiser Group ,Other,Zud,1
+British American Tobacco,Global Drive Brands,Dunhill,1
+British American Tobacco,Global Drive Brands,Kent,1
+British American Tobacco,Global Drive Brands,Lucky Strike,1
+British American Tobacco,Global Drive Brands,Pall Mall,1
+British American Tobacco,Other,Benson & Hedges,1
+British American Tobacco,Other,Du Maurier,1
+British American Tobacco,Other,Elita,1
+British American Tobacco,Other,King's ,1
+British American Tobacco,Other,Murray Sons and Company,1
+British American Tobacco,Other,Parisienne,1
+British American Tobacco,Other,Prince,1
+British American Tobacco,Other,Rothmans International,1
+British American Tobacco,Other,State Express 555,1
+British American Tobacco,Other,Sweet Afton,1
+British American Tobacco,Other,Vogue,1
+British American Tobacco,Other,Winfield,1
+PepsiCo,Breakfast Bars ,Quaker Bars,1
+PepsiCo,Coffee Drinks ,Starbucks,1
+PepsiCo,Coffee Drinks ,Seattle's Best Coffee,1
+PepsiCo,Energy Drinks ,AMP Energy,1
+PepsiCo,Energy Drinks ,No Fear Energy Drinks,1
+PepsiCo,Energy Drinks ,Rockstar Energy,1
+PepsiCo,Energy Drinks ,SoBe,1
+PepsiCo,Cereal ,Cap'n Crunch Cereal,1
+PepsiCo,Cereal ,King Vitaman Cereal,1
+PepsiCo,Cereal ,Kretschmer Toasted Wheat Germ,1
+PepsiCo,Cereal ,Quaker Cereal,1
+PepsiCo,Cereal ,Quisp Cereal,1
+PepsiCo,Other ,AMP Energy Gum,1
+PepsiCo,Other ,Aunt Jemima Mixes & Syrups,1
+PepsiCo,Other ,Quaker Baking Mixes,1
+PepsiCo,Rice Snacks,Quaker Rice,1
+PepsiCo,Side Dishes ,Near East Side Dishes,1
+PepsiCo,Side Dishes ,Pasta Roni Side Dishes,1
+PepsiCo,Side Dishes ,Rice-A-Roni Side Dishes,1
+PepsiCo,Snacks ,Cheetos,1
+PepsiCo,Snacks ,Doritos,1
+PepsiCo,Snacks ,Lay's,1
+PepsiCo,Snacks ,Ruffles,1
+PepsiCo,Snacks ,Tostitos,1
+PepsiCo,Snacks ,Chester's ,1
+PepsiCo,Snacks ,Cracker Jack  ,1
+PepsiCo,Snacks ,El Isleno  ,1
+PepsiCo,Snacks ,Fritos ,1
+PepsiCo,Snacks ,Funyons  ,1
+PepsiCo,Snacks ,Gamesa Cookies and Wafers,1
+PepsiCo,Snacks ,Grandma's Cookies,1
+PepsiCo,Snacks ,Hickory Sticks,1
+PepsiCo,Snacks ,Hostess Potato Chips,1
+PepsiCo,Snacks ,Maui Style ,1
+PepsiCo,Snacks ,Miss Vicky's  ,1
+PepsiCo,Snacks ,Munchies ,1
+PepsiCo,Snacks ,Nut Harvest Nuts,1
+PepsiCo,Snacks ,Rold Gold Pretzels,1
+PepsiCo,Snacks ,Sabritones ,1
+PepsiCo,Snacks ,Santitas Tortille Chips,1
+PepsiCo,Snacks ,Smartfood Popcorn,1
+PepsiCo,Snacks ,Spitz Seeds,1
+PepsiCo,Snacks ,Stacy's Pita,1
+PepsiCo,Snacks ,Bagel Chips,1
+PepsiCo,Snacks ,SunChips ,1
+PepsiCo,Soft Drinks  ,Mountain Dew,1
+PepsiCo,Soft Drinks  ,Pepsi,1
+PepsiCo,Soft Drinks  ,Sierra Mist,1
+PepsiCo,Soft Drinks  ,Lipton,1
+PepsiCo,Soft Drinks  ,Mug,1
+PepsiCo,Soft Drinks  ,Mirinda,1
+PepsiCo,Soft Drinks  ,Atom,1
+PepsiCo,Sports Nutrition ,Gatorade,1
+PepsiCo,Bottled Water,Aquafina,1
+PepsiCo,Bottled Water,Aquafina FlavorSplash,1
+PepsiCo,Bottled Water,Propel Zero,1
+PepsiCo,Bottled Water,SoBe Lifewater,1
+PepsiCo,Yogurt,Muller Corner,1
+Unilever,Food and Drink,Flora,1
+Unilever,Food and Drink,Ben & Jerry's,1
+Unilever,Food and Drink,Bertolli,1
+Unilever,Food and Drink,Rama,1
+Unilever,Food and Drink,Wall's,1
+Unilever,Food and Drink,Hellmann's,1
+Unilever,Food and Drink,Knorr,1
+Unilever,Food and Drink,Lipton,1
+Unilever,Home Care,Cif,1
+Unilever,Home Care,Comfort,1
+Unilever,Home Care,Domestos,1
+Unilever,Home Care,Omo,1
+Unilever,Home Care,Sunlight,1
+Unilever,Home Care,Surf,1
+Unilever,Personal Care,Axe,1
+Unilever,Personal Care,Brylcreem,1
+Unilever,Personal Care,Clear,1
+Unilever,Personal Care,Dove,1
+Unilever,Personal Care,Fissan,1
+Unilever,Personal Care,Lifebuoy,1
+Unilever,Personal Care,Lux,1
+Unilever,Personal Care,Pond's,1
+Unilever,Personal Care,Radox,1
+Unilever,Personal Care,Rexona,1
+Unilever,Personal Care,Signal,1
+Unilever,Personal Care,Simple,1
+Unilever,Personal Care,St Ives,1
+Unilever,Personal Care,Sunsilk,1
+Unilever,Personal Care,Timotei,1
+Unilever,Personal Care,Toni & Guy,1
+Unilever,Personal Care,TRESemmé,1
+Unilever,Personal Care,Vaseline ,1
+Unilever,Personal Care,VO5 ,1
+Philips Morris International,Top 10 Brands,Marlboro,1
+Philips Morris International,Top 10 Brands,L&M,1
+Philips Morris International,Top 10 Brands,Bond Street,1
+Philips Morris International,Top 10 Brands,Parliament,1
+Philips Morris International,Top 10 Brands,Philip Morris,1
+Philips Morris International,Top 10 Brands,Chesterfield,1
+Philips Morris International,Top 10 Brands,Fortune,1
+Philips Morris International,Top 10 Brands,Sampoerna,1
+Philips Morris International,Top 10 Brands,Lark,1
+Philips Morris International,Top 10 Brands,Dji Sam Soe,1
+Philips Morris International,Local Brands,Rym,1
+Philips Morris International,Local Brands,Accord,1
+Philips Morris International,Local Brands,American Gold,1
+Philips Morris International,Local Brands,Assos,1
+Philips Morris International,Local Brands,Astra,1
+Philips Morris International,Local Brands,Belmont,1
+Philips Morris International,Local Brands,Benson & Hedges,1
+Philips Morris International,Local Brands,Bond Street,1
+Philips Morris International,Local Brands,Boston,1
+Philips Morris International,Local Brands,Canadian Classics,1
+Philips Morris International,Local Brands,Caribe,1
+Philips Morris International,Local Brands,Chanceller,1
+Philips Morris International,Local Brands,Chesterfield,1
+Philips Morris International,Local Brands,Craven A,1
+Philips Morris International,Local Brands,Dallas,1
+Philips Morris International,Local Brands,Delicados,1
+Philips Morris International,Local Brands,Derby,1
+Philips Morris International,Local Brands,Diana,1
+Philips Morris International,Local Brands,Elegantes,1
+Philips Morris International,Local Brands,Eve,1
+Philips Morris International,Local Brands,F6,1
+Philips Morris International,Local Brands,Faros,1
+Philips Morris International,Local Brands,Fortuna,1
+Philips Morris International,Local Brands,Gallaher Group,1
+Philips Morris International,Local Brands,Gauloises,1
+Philips Morris International,Local Brands,Green,1
+Philips Morris International,Local Brands,Kazakhstanskye,1
+Philips Morris International,Local Brands,Lark,1
+Philips Morris International,Local Brands,Líder,1
+Philips Morris International,Local Brands,Longbeach,1
+Philips Morris International,Local Brands,Luxor,1
+Philips Morris International,Local Brands,Mark Ten,1
+Philips Morris International,Local Brands,Marquises,1
+Philips Morris International,Local Brands,Medeo,1
+Philips Morris International,Local Brands,Merit,1
+Philips Morris International,Local Brands,Minak Djinggo,1
+Philips Morris International,Local Brands,Multifilter,1
+Philips Morris International,Local Brands,Muratti,1
+Philips Morris International,Local Brands,Nacional,1
+Philips Morris International,Local Brands,Nassim,1
+Philips Morris International,Local Brands,Next,1
+Philips Morris International,Local Brands,Number 7,1
+Philips Morris International,Local Brands,Parliament,1
+Philips Morris International,Local Brands,Partner,1
+Philips Morris International,Local Brands,Pielroja,1
+Philips Morris International,Local Brands,Polet,1
+Philips Morris International,Local Brands,Prima,1
+Philips Morris International,Local Brands,Red & White,1
+Philips Morris International,Local Brands,Rothmans International,1
+Philips Morris International,Local Brands,Rubios,1
+Philips Morris International,Local Brands,Sampoerna A,1
+Philips Morris International,Local Brands,Shelton,1
+Philips Morris International,Local Brands,Skjold,1
+Philips Morris International,Local Brands,Souz Apollon,1
+Philips Morris International,Local Brands,ST Dupont Paris,1
+Philips Morris International,Local Brands,U Mild,1
+Philips Morris International,Local Brands,Virginia Slims,1
+Philips Morris International,Local Brands,Winston,1
+Philips Morris International,Local Brands,Wismilak Diplomat,1
+Anheuser-Busch InBev,Global Brands,Corona,1
+Anheuser-Busch InBev,Global Brands,Beck's,1
+Anheuser-Busch InBev,Global Brands,Stella Artois,1
+Anheuser-Busch InBev,Global Brands,Budweiser,1
+Anheuser-Busch InBev,Global Brands,Brahma,1
+Anheuser-Busch InBev,Multi-Country Brands ,Leffe,1
+Anheuser-Busch InBev,Multi-Country Brands ,Hoegaarden Brewery,1
+Anheuser-Busch InBev,Local Champions ,Spaten,1
+Anheuser-Busch InBev,Local Champions ,Franziskaner,1
+Anheuser-Busch InBev,Local Champions ,Hasseröder,1
+Anheuser-Busch InBev,Local Champions ,Löwenbräu,1
+Anheuser-Busch InBev,Local Champions ,Quilmes,1
+Anheuser-Busch InBev,Local Champions ,Labatt,1
+Anheuser-Busch InBev,Local Champions ,Alexander Keith's,1
+Anheuser-Busch InBev,Local Champions ,Bass,1
+Anheuser-Busch InBev,Local Champions ,Busch,1
+Anheuser-Busch InBev,Local Champions ,Guaraná Antarctica,1
+Anheuser-Busch InBev,Local Champions ,Rolling Rock,1
+Anheuser-Busch InBev,Local Champions ,Jupiler,1
+Anheuser-Busch InBev,Local Champions ,Harbin Brewery,1
+Anheuser-Busch InBev,Local Champions ,Goose Island,1
+Anheuser-Busch InBev,Local Champions ,Leffe,1
+Anheuser-Busch InBev,Local Champions ,Hoegaarden,1
+Anheuser-Busch InBev,Local Champions ,Hertog Jan,1
+Anheuser-Busch InBev,Local Champions ,Dommelsch,1
+Anheuser-Busch InBev,Local Champions ,Oranjeboom,1
+Anheuser-Busch InBev,Local Champions ,Staropramen,1
+Anheuser-Busch InBev,Local Champions ,Michelob,1
+Anheuser-Busch InBev,Local Champions ,Natural Ice,1
+Anheuser-Busch InBev,Local Champions ,Kokanee,1
+Anheuser-Busch InBev,Local Champions ,Presidente,1
+Anheuser-Busch InBev,Local Champions ,Modelo,1
+Anheuser-Busch InBev,Local Champions ,BagBier,1
+Anheuser-Busch InBev,Local Champions ,Кlinskoe,1
+Anheuser-Busch InBev,Local Champions ,Sibirskaya Korona,1
+Anheuser-Busch InBev,Local Champions ,Tolstyak,1
+Anheuser-Busch InBev,Local Champions ,Premier,1
+Anheuser-Busch InBev,Local Champions ,Rifyey,1
+Anheuser-Busch InBev,Local Champions ,O'Doul's,1
+Anheuser-Busch InBev,Local Champions ,Shock Top,1
+Anheuser-Busch InBev,Local Champions ,Third Shift,1
+Coca-Cola,All,A&W,1
+Coca-Cola,All,Ades,1
+Coca-Cola,All,Agua de Taxco,1
+Coca-Cola,All,Ali,1
+Coca-Cola,All,Almdudler,1
+Coca-Cola,All,Alpina,1
+Coca-Cola,All,Ambasa,1
+Coca-Cola,All,Ameyal,1
+Coca-Cola,All,Amorino,1
+Coca-Cola,All,Andina,1
+Coca-Cola,All,Andina Frut,1
+Coca-Cola,All,Andina Nectar,1
+Coca-Cola,All,Aquabona,1
+Coca-Cola,All,Aquapure,1
+Coca-Cola,All,Aquarius,1
+Coca-Cola,All,Aquarius Spring!,1
+Coca-Cola,All,Aquavalue,1
+Coca-Cola,All,Arwa,1
+Coca-Cola,All,Aybal-Kin,1
+Coca-Cola,All,Bacardi Mixers *,1
+Coca-Cola,All,Bacardi Premium Mixers *,1
+Coca-Cola,All,Bankia,1
+Coca-Cola,All,Barbican,1
+Coca-Cola,All,Barrilitos,1
+Coca-Cola,All,Battery,1
+Coca-Cola,All,Bbaeonal Su,1
+Coca-Cola,All,Bebere,1
+Coca-Cola,All,Benedictino,1
+Coca-Cola,All,Beverly,1
+Coca-Cola,All,Bevi,1
+Coca-Cola,All,Bibo,1
+Coca-Cola,All,Bimbo,1
+Coca-Cola,All,Bimbo Break,1
+Coca-Cola,All,Birds Nest,1
+Coca-Cola,All,Bistra,1
+Coca-Cola,All,Bistrone,1
+Coca-Cola,All,Bitter Rosso,1
+Coca-Cola,All,Bjare,1
+Coca-Cola,All,BlackFire,1
+Coca-Cola,All,BlaK,1
+Coca-Cola,All,Boga,1
+Coca-Cola,All,Bong Pyoung,1
+Coca-Cola,All,Botaniq 1QQ,1
+Coca-Cola,All,Botany,1
+Coca-Cola,All,BPM,1
+Coca-Cola,All,Brazzi,1
+Coca-Cola,All,Bright And Early,1
+Coca-Cola,All,Brisa Gas,1
+Coca-Cola,All,Brisa Spa,1
+Coca-Cola,All,Bu,1
+Coca-Cola,All,Buyulu Bohca,1
+Coca-Cola,All,caffeine free Barq's,1
+Coca-Cola,All,caffeine free Diet Coke,1
+Coca-Cola,All,Calpis,1
+Coca-Cola,All,Calypso,1
+Coca-Cola,All,Cannings,1
+Coca-Cola,All,Cappy,1
+Coca-Cola,All,Cappy Pulpy,1
+Coca-Cola,All,Caprice,1
+Coca-Cola,All,Carioca,1
+Coca-Cola,All,Carlsberg,1
+Coca-Cola,All,Carlsberg Onside Sport,1
+Coca-Cola,All,Carlysle Farm,1
+Coca-Cola,All,Cascal,1
+Coca-Cola,All,Cepita,1
+Coca-Cola,All,Cham,1
+Coca-Cola,All,Chaon,1
+Coca-Cola,All,Chaqwa,1
+Coca-Cola,All,Charrua,1
+Coca-Cola,All,Cheers,1
+Coca-Cola,All,Chinotto Light,1
+Coca-Cola,All,Chippewa,1
+Coca-Cola,All,Chivalry,1
+Coca-Cola,All,Citra,1
+Coca-Cola,All,Club,1
+Coca-Cola,All,Coco Palm,1
+Coca-Cola,All,Cocoteen,1
+Coca-Cola,All,Combi,1
+Coca-Cola,All,Country Club,1
+Coca-Cola,All,Creamy,1
+Coca-Cola,All,Cresta,1
+Coca-Cola,All,Cristal,1
+Coca-Cola,All,Crush,1
+Coca-Cola,All,Crushed,1
+Coca-Cola,All,Crusta,1
+Coca-Cola,All,Crystal,1
+Coca-Cola,All,Cumberland Gap,1
+Coca-Cola,All,DA,1
+Coca-Cola,All,Damla Minera,1
+Coca-Cola,All,DANNON *,1
+Coca-Cola,All,Del Prado,1
+Coca-Cola,All,Del Valle Frut,1
+Coca-Cola,All,Del Valle Kapo,1
+Coca-Cola,All,Del Valle Mais Light,1
+Coca-Cola,All,Delaware Punch,1
+Coca-Cola,All,diet A&W,1
+Coca-Cola,All,diet Almdudler,1
+Coca-Cola,All,diet Andina Frut/Andina Frut Light,1
+Coca-Cola,All,diet Andina Nectar/Andina Nectar Lt,1
+Coca-Cola,All,diet Barq's,1
+Coca-Cola,All,diet Canada Dry,1
+Coca-Cola,All,Diet cherry Coke,1
+Coca-Cola,All,Diet Coke/Coca-Cola light with Lemon,1
+Coca-Cola,All,Diet Coke/Coca-Cola light with Lime,1
+Coca-Cola,All,Diet Coke with Lime,1
+Coca-Cola,All,diet Crush,1
+Coca-Cola,All,diet Dr Pepper,1
+Coca-Cola,All,diet Inca Kola,1
+Coca-Cola,All,diet Kia Ora,1
+Coca-Cola,All,diet Kinley CSD,1
+Coca-Cola,All,diet Lift,1
+Coca-Cola,All,diet Lilt,1
+Coca-Cola,All,diet Mello Yello/Mello Yello Zero,1
+Coca-Cola,All,diet Mezzo Mix,1
+Coca-Cola,All,diet Nestea - Nestea light,1
+Coca-Cola,All,Diet NESTEA *,1
+Coca-Cola,All,diet Oasis,1
+Coca-Cola,All,diet Quatro/Quatro light,1
+Coca-Cola,All,diet Schweppes,1
+Coca-Cola,All,diet Sport,1
+Coca-Cola,All,diet Tai,1
+Coca-Cola,All,diet Vanilla Coke,1
+Coca-Cola,All,Disney Xtreme Coolers,1
+Coca-Cola,All,Do You Have,1
+Coca-Cola,All,Dobriy,1
+Coca-Cola,All,Dogadan Plus,1
+Coca-Cola,All,Dorna,1
+Coca-Cola,All,D'Oro,1
+Coca-Cola,All,Dr Pepper,1
+Coca-Cola,All,E2,1
+Coca-Cola,All,Eight O Clock Funchum,1
+Coca-Cola,All,Eight O Clock ImmunoActive,1
+Coca-Cola,All,Epika,1
+Coca-Cola,All,Escuis,1
+Coca-Cola,All,Estrella Azul,1
+Coca-Cola,All,Eva,1
+Coca-Cola,All,Excellade,1
+Coca-Cola,All,Fakher,1
+Coca-Cola,All,Far Coast,1
+Coca-Cola,All,Felicia,1
+Coca-Cola,All,Finley,1
+Coca-Cola,All,Fioravanti,1
+Coca-Cola,All,Five Alive,1
+Coca-Cola,All,Flavor Rage,1
+Coca-Cola,All,Florida 7,1
+Coca-Cola,All,Fonte Ijui,1
+Coca-Cola,All,Frazer & Neave,1
+Coca-Cola,All,Fresca One,1
+Coca-Cola,All,Freskyta,1
+Coca-Cola,All,Frestea,1
+Coca-Cola,All,Friolin,1
+Coca-Cola,All,Frisco,1
+Coca-Cola,All,Frugos,1
+Coca-Cola,All,Fruitia,1
+Coca-Cola,All,Fruitopia,1
+Coca-Cola,All,Fruktime,1
+Coca-Cola,All,Frutier,1
+Coca-Cola,All,Frutsi,1
+Coca-Cola,All,Georgia Gold,1
+Coca-Cola,All,glacéau vitaminwater 10,1
+Coca-Cola,All,glacéau vitaminwater zero,1
+Coca-Cola,All,Gladiator,1
+Coca-Cola,All,Gold Spot,1
+Coca-Cola,All,Golden Crush,1
+Coca-Cola,All,Golden Drop,1
+Coca-Cola,All,Good Morning,1
+Coca-Cola,All,Goombay,1
+Coca-Cola,All,Goongbi,1
+Coca-Cola,All,Goongbi Momegeoun,1
+Coca-Cola,All,Gosohan,1
+Coca-Cola,All,Gosohan Achim,1
+Coca-Cola,All,Goulburn Valley,1
+Coca-Cola,All,Goulburn Valley Dairy,1
+Coca-Cola,All,Guarana Jesus,1
+Coca-Cola,All,Guarapan,1
+Coca-Cola,All,Gwailchon,1
+Coca-Cola,All,H2OK,1
+Coca-Cola,All,Hajime,1
+Coca-Cola,All,Hani,1
+Coca-Cola,All,Hatidar,1
+Coca-Cola,All,Hawai,1
+Coca-Cola,All,Healthworks,1
+Coca-Cola,All,Heppinger,1
+Coca-Cola,All,Hi-C,1
+Coca-Cola,All,Hi Spot,1
+Coca-Cola,All,Honest,1
+Coca-Cola,All,Hot Point,1
+Coca-Cola,All,Huang,1
+Coca-Cola,All,Ice Dew,1
+Coca-Cola,All,Ice Dew 3+,1
+Coca-Cola,All,Ice Tea Leao,1
+Coca-Cola,All,Inca Kola,1
+Coca-Cola,All,Izvorul Alb,1
+Coca-Cola,All,Java Monster,1
+Coca-Cola,All,Jaz Cola,1
+Coca-Cola,All,Jericho,1
+Coca-Cola,All,Jet Tonic,1
+Coca-Cola,All,Jolly Juice,1
+Coca-Cola,All,Joy,1
+Coca-Cola,All,Joya,1
+Coca-Cola,All,Juan Valdez,1
+Coca-Cola,All,Just Juice,1
+Coca-Cola,All,Kamjiki,1
+Coca-Cola,All,Kani,1
+Coca-Cola,All,Kapo,1
+Coca-Cola,All,Karadameguricha,1
+Coca-Cola,All,Keri,1
+Coca-Cola,All,Keunjib Sikhye,1
+Coca-Cola,All,Kia Ora,1
+Coca-Cola,All,Kildevaeld,1
+Coca-Cola,All,Kilimanjaro,1
+Coca-Cola,All,Kin,1
+Coca-Cola,All,Kist,1
+Coca-Cola,All,Kiwi Blue,1
+Coca-Cola,All,Kola Inglesa,1
+Coca-Cola,All,Krest,1
+Coca-Cola,All,Kristal,1
+Coca-Cola,All,Kropla Beskidu,1
+Coca-Cola,All,Krushka & Bochka,1
+Coca-Cola,All,Krystal,1
+Coca-Cola,All,Kuat,1
+Coca-Cola,All,Kuat Light,1
+Coca-Cola,All,Kuli,1
+Coca-Cola,All,La Jolla,1
+Coca-Cola,All,La Vuelta,1
+Coca-Cola,All,Lacti Deli,1
+Coca-Cola,All,Lanitis,1
+Coca-Cola,All,Lanitis Extra,1
+Coca-Cola,All,Lanitis Fun,1
+Coca-Cola,All,Leao Green Tea,1
+Coca-Cola,All,Leao Guarana Power,1
+Coca-Cola,All,Less is More,1
+Coca-Cola,All,Lezz,1
+Coca-Cola,All,Lift Plus,1
+Coca-Cola,All,Lilia,1
+Coca-Cola,All,Lilt,1
+Coca-Cola,All,Limca,1
+Coca-Cola,All,Limelite,1
+Coca-Cola,All,Limonade,1
+Coca-Cola,All,Linnuse,1
+Coca-Cola,All,Lion,1
+Coca-Cola,All,Mado,1
+Coca-Cola,All,Magdalenen Brunnen,1
+Coca-Cola,All,Magic Summer,1
+Coca-Cola,All,Malvern,1
+Coca-Cola,All,Manantial,1
+Coca-Cola,All,Marocha,1
+Coca-Cola,All,Master Chill,1
+Coca-Cola,All,Master Pour,1
+Coca-Cola,All,Matusov Pramen,1
+Coca-Cola,All,Mazoe,1
+Coca-Cola,All,McFruit,1
+Coca-Cola,All,Mello,1
+Coca-Cola,All,Melonec,1
+Coca-Cola,All,Mer,1
+Coca-Cola,All,Miami,1
+Coca-Cola,All,Mickey Mouse,1
+Coca-Cola,All,Migoro-Nomigoro,1
+Coca-Cola,All,Mineragua,1
+Coca-Cola,All,Minute Maid 10 Score V,1
+Coca-Cola,All,Minute Maid Enhanced,1
+Coca-Cola,All,Minute Maid Juices To Go,1
+Coca-Cola,All,Minute Maid Nutri Boost,1
+Coca-Cola,All,Minute Maid Schorle,1
+Coca-Cola,All,Minute Maid Soft Drink,1
+Coca-Cola,All,Mireille,1
+Coca-Cola,All,Momegeoun,1
+Coca-Cola,All,Mone,1
+Coca-Cola,All,Mori No Mizudayori,1
+Coca-Cola,All,Mother,1
+Coca-Cola,All,Moya Semya,1
+Coca-Cola,All,Multivita,1
+Coca-Cola,All,Mundet,1
+Coca-Cola,All,Nada,1
+Coca-Cola,All,Nagomi,1
+Coca-Cola,All,Nalu,1
+Coca-Cola,All,Naturaqua,1
+Coca-Cola,All,Natures Own,1
+Coca-Cola,All,NESTEA COOL *,1
+Coca-Cola,All,Nestea Vitao,1
+Coca-Cola,All,Nestle,1
+Coca-Cola,All,Nevada,1
+Coca-Cola,All,Neverfail,1
+Coca-Cola,All,Next,1
+Coca-Cola,All,Nico Biotime,1
+Coca-Cola,All,Nordic Mist,1
+Coca-Cola,All,Northern Neck,1
+Coca-Cola,All,Oasis,1
+Coca-Cola,All,Olimpija,1
+Coca-Cola,All,Olo Olo,1
+Coca-Cola,All,Orchy,1
+Coca-Cola,All,Pampa,1
+Coca-Cola,All,Pandori,1
+Coca-Cola,All,Peace,1
+Coca-Cola,All,Pearona,1
+Coca-Cola,All,Peats Ridge,1
+Coca-Cola,All,Pepe Rico,1
+Coca-Cola,All,Peranec,1
+Coca-Cola,All,Pibb,1
+Coca-Cola,All,Piko,1
+Coca-Cola,All,Piko Pulpy,1
+Coca-Cola,All,Pilskalna,1
+Coca-Cola,All,Play,1
+Coca-Cola,All,Poiana Negri,1
+Coca-Cola,All,PoljakPoljak,1
+Coca-Cola,All,Poms,1
+Coca-Cola,All,Pop,1
+Coca-Cola,All,Portello,1
+Coca-Cola,All,POWERADE ENERGY,1
+Coca-Cola,All,POWERADE PLAY,1
+Coca-Cola,All,Powerplay,1
+Coca-Cola,All,Premio,1
+Coca-Cola,All,Presta Light,1
+Coca-Cola,All,Prisco,1
+Coca-Cola,All,Private LabelGreenwood,1
+Coca-Cola,All,Private LabelKipa,1
+Coca-Cola,All,Private LabelKipapazar,1
+Coca-Cola,All,Private LabelMigros,1
+Coca-Cola,All,Pulp,1
+Coca-Cola,All,Pump,1
+Coca-Cola,All,Pumped,1
+Coca-Cola,All,Pura Sol,1
+Coca-Cola,All,Pyungchangsoo,1
+Coca-Cola,All,Qoo,1
+Coca-Cola,All,Quatro,1
+Coca-Cola,All,Quwat Jabal,1
+Coca-Cola,All,Ramlosa,1
+Coca-Cola,All,Rani,1
+Coca-Cola,All,Real,1
+Coca-Cola,All,Real Gold,1
+Coca-Cola,All,Real Leaf,1
+Coca-Cola,All,Real Leaf Frutcy,1
+Coca-Cola,All,Red Flash,1
+Coca-Cola,All,Relentless,1
+Coca-Cola,All,Rich,1
+Coca-Cola,All,Rio!,1
+Coca-Cola,All,Ripe N Ready,1
+Coca-Cola,All,Riwa,1
+Coca-Cola,All,Rosa,1
+Coca-Cola,All,Roses,1
+Coca-Cola,All,Royal Tru,1
+Coca-Cola,All,Safia,1
+Coca-Cola,All,Samurai,1
+Coca-Cola,All,San Luis,1
+Coca-Cola,All,Sarsi,1
+Coca-Cola,All,Saryusaisai,1
+Coca-Cola,All,Schurwald,1
+Coca-Cola,All,Schuss,1
+Coca-Cola,All,Schweppes Abbey Well,1
+Coca-Cola,All,Sensation,1
+Coca-Cola,All,Sensun,1
+Coca-Cola,All,Senzao,1
+Coca-Cola,All,Shandy,1
+Coca-Cola,All,Shangri-La,1
+Coca-Cola,All,Sidral Light,1
+Coca-Cola,All,Sierra Azul,1
+Coca-Cola,All,Simba,1
+Coca-Cola,All,Smart,1
+Coca-Cola,All,Sobo,1
+Coca-Cola,All,Sodenthaler,1
+Coca-Cola,All,Sokenbicha,1
+Coca-Cola,All,Solaria,1
+Coca-Cola,All,Solo,1
+Coca-Cola,All,Sonfil,1
+Coca-Cola,All,Southern Sun,1
+Coca-Cola,All,Sparkle,1
+Coca-Cola,All,Sparletta,1
+Coca-Cola,All,Sparletta Iron Brew,1
+Coca-Cola,All,Splash,1
+Coca-Cola,All,Sport,1
+Coca-Cola,All,Spring Water,1
+Coca-Cola,All,Sprite 3-G,1
+Coca-Cola,All,Sprite Flavors,1
+Coca-Cola,All,Sprite Remix,1
+Coca-Cola,All,Sprite Zero - diet Sprite,1
+Coca-Cola,All,Spur,1
+Coca-Cola,All,Squirt,1
+Coca-Cola,All,Stoney Ginger Beer,1
+Coca-Cola,All,Su Voce,1
+Coca-Cola,All,Sunfill,1
+Coca-Cola,All,Sunny-10,1
+Coca-Cola,All,Svali,1
+Coca-Cola,All,Sveva,1
+Coca-Cola,All,TaB,1
+Coca-Cola,All,Tab X-Tra,1
+Coca-Cola,All,Tai,1
+Coca-Cola,All,Taiyo no Mate Cha,1
+Coca-Cola,All,Ten Ren,1
+Coca-Cola,All,The Spirit of Georgia,1
+Coca-Cola,All,Thextons,1
+Coca-Cola,All,This Water,1
+Coca-Cola,All,Thums Up,1
+Coca-Cola,All,Tian Yu Di,1
+Coca-Cola,All,Tiky,1
+Coca-Cola,All,Toka,1
+Coca-Cola,All,Top,1
+Coca-Cola,All,Topo Chico,1
+Coca-Cola,All,Toppur,1
+Coca-Cola,All,Tops,1
+Coca-Cola,All,Toscal,1
+Coca-Cola,All,Tropi,1
+Coca-Cola,All,Tropi Frut,1
+Coca-Cola,All,Tropical,1
+Coca-Cola,All,Tuborg,1
+Coca-Cola,All,Tuborg Light,1
+Coca-Cola,All,Ultra,1
+Coca-Cola,All,Urbacher,1
+Coca-Cola,All,Urge,1
+Coca-Cola,All,Valle Pulpy,1
+Coca-Cola,All,Valpre,1
+Coca-Cola,All,Valser,1
+Coca-Cola,All,Valser Viva,1
+Coca-Cola,All,Vaquita,1
+Coca-Cola,All,VAULT,1
+Coca-Cola,All,Vegitabeta,1
+Coca-Cola,All,Victoria,1
+Coca-Cola,All,Vio,1
+Coca-Cola,All,Vita Slim,1
+Coca-Cola,All,Vital O,1
+Coca-Cola,All,Vittalev,1
+Coca-Cola,All,Viva,1
+Coca-Cola,All,Wildberry,1
+Coca-Cola,All,Wilkins,1
+Coca-Cola,All,Worx Energy,1
+Coca-Cola,All,Yangguang,1
+Coca-Cola,All,Yangguang Juicy T,1
+Coca-Cola,All,Yarylo Kvass,1
+Coca-Cola,All,Yasly Sad,1
+Coca-Cola,All,Yo Conozco a Hugo,1
+Coca-Cola,All,Yoli,1
+Coca-Cola,All,Youki,1
+Coca-Cola,All,Yuan Ye,1
+Coca-Cola,All,Yuan Ye Frutcy,1
+Procter & Gamble,Beauty & Grooming,007 Men's Fragrances,1
+Procter & Gamble,Beauty & Grooming,Always,1
+Procter & Gamble,Beauty & Grooming,Aussie,1
+Procter & Gamble,Beauty & Grooming,Braun,1
+Procter & Gamble,Beauty & Grooming,Christina Aguilera Perfumes,1
+Procter & Gamble,Beauty & Grooming,Clairol Professional,1
+Procter & Gamble,Beauty & Grooming,CoverGirl,1
+Procter & Gamble,Beauty & Grooming,Crest,1
+Procter & Gamble,Beauty & Grooming,DDF,1
+Procter & Gamble,Beauty & Grooming,Dolce&Gabbana Fragrances,1
+Procter & Gamble,Beauty & Grooming,Dolce&Gabbana Make Up,1
+Procter & Gamble,Beauty & Grooming,Escada Fragrances,1
+Procter & Gamble,Beauty & Grooming,Fekkai,1
+Procter & Gamble,Beauty & Grooming,Fusion,1
+Procter & Gamble,Beauty & Grooming,Gillette,1
+Procter & Gamble,Beauty & Grooming,Gucci Fragrances,1
+Procter & Gamble,Beauty & Grooming,HUGO BOSS Fragrances,1
+Procter & Gamble,Beauty & Grooming,Head & Shoulders,1
+Procter & Gamble,Beauty & Grooming,Herbal Essences,1
+Procter & Gamble,Beauty & Grooming,Ivory,1
+Procter & Gamble,Beauty & Grooming,Lacoste Fragrances,1
+Procter & Gamble,Beauty & Grooming,MACH3,1
+Procter & Gamble,Beauty & Grooming,Naomi Campbell,1
+Procter & Gamble,Beauty & Grooming,Natural Instincts,1
+Procter & Gamble,Beauty & Grooming,Nice 'n Easy,1
+Procter & Gamble,Beauty & Grooming,Nioxin,1
+Procter & Gamble,Beauty & Grooming,Olay,1
+Procter & Gamble,Beauty & Grooming,Old Spice,1
+Procter & Gamble,Beauty & Grooming,Oral-B,1
+Procter & Gamble,Beauty & Grooming,Pantene,1
+Procter & Gamble,Beauty & Grooming,Prestobarba/Blue,1
+Procter & Gamble,Beauty & Grooming,Puma,1
+Procter & Gamble,Beauty & Grooming,Rejoice,1
+Procter & Gamble,Beauty & Grooming,SK-II,1
+Procter & Gamble,Beauty & Grooming,Safeguard,1
+Procter & Gamble,Beauty & Grooming,Scope,1
+Procter & Gamble,Beauty & Grooming,Sebastian Professional,1
+Procter & Gamble,Beauty & Grooming,Secret,1
+Procter & Gamble,Beauty & Grooming,Tampax,1
+Procter & Gamble,Beauty & Grooming,Venus,1
+Procter & Gamble,Beauty & Grooming,Vidal Sassoon,1
+Procter & Gamble,Beauty & Grooming,Wella,1
+Procter & Gamble,Household Care,Align,1
+Procter & Gamble,Household Care,Ariel,1
+Procter & Gamble,Household Care,Bold,1
+Procter & Gamble,Household Care,Bounce,1
+Procter & Gamble,Household Care,Bounty,1
+Procter & Gamble,Household Care,Cascade,1
+Procter & Gamble,Household Care,Charmin,1
+Procter & Gamble,Household Care,Cheer,1
+Procter & Gamble,Household Care,Clearblue,1
+Procter & Gamble,Household Care,Comet,1
+Procter & Gamble,Household Care,Dash,1
+Procter & Gamble,Household Care,Dawn,1
+Procter & Gamble,Household Care,Downy,1
+Procter & Gamble,Household Care,Dreft Laundry,1
+Procter & Gamble,Household Care,Duracell,1
+Procter & Gamble,Household Care,Era,1
+Procter & Gamble,Household Care,Eukanuba,1
+Procter & Gamble,Household Care,Febreze,1
+Procter & Gamble,Household Care,Gain,1
+Procter & Gamble,Household Care,Iams,1
+Procter & Gamble,Household Care,Joy,1
+Procter & Gamble,Household Care,Luvs,1
+Procter & Gamble,Household Care,Metamucil,1
+Procter & Gamble,Household Care,Mr. Clean,1
+Procter & Gamble,Household Care,Pampers,1
+Procter & Gamble,Household Care,Pepto-Bismol,1
+Procter & Gamble,Household Care,Prilosec OTC,1
+Procter & Gamble,Household Care,Puffs,1
+Procter & Gamble,Household Care,Swiffer,1
+Procter & Gamble,Household Care,Tide,1
+Procter & Gamble,Household Care,Vicks,1
+Nestle,Baby foods,Cerelac,1
+Nestle,Baby foods,Gerber,1
+Nestle,Baby foods,Gerber Graduates,1
+Nestle,Baby foods,NaturNes,1
+Nestle,Baby foods,Nestum,1
+Nestle,Bottled water,Nestlé Pure Life,1
+Nestle,Bottled water,Perrier,1
+Nestle,Bottled water,Poland Spring,1
+Nestle,Bottled water,S.Pellegrino,1
+Nestle,Cereals,Chocapic,1
+Nestle,Cereals,Cini Minis,1
+Nestle,Cereals,Cookie Crisp,1
+Nestle,Cereals,Estrelitas,1
+Nestle,Cereals,Fitness,1
+Nestle,Cereals,Nesquik Breakfast Cereal,1
+Nestle,Chocolate & confectionery,Aero,1
+Nestle,Chocolate & confectionery,Butterfinger,1
+Nestle,Chocolate & confectionery,Cailler,1
+Nestle,Chocolate & confectionery,Crunch,1
+Nestle,Chocolate & confectionery,KitKat,1
+Nestle,Chocolate & confectionery,Orion,1
+Nestle,Chocolate & confectionery,Smarties,1
+Nestle,Chocolate & confectionery,Toll House,1
+Nestle,Chocolate & confectionery,Wonka,1
+Nestle,Coffee,Nescafe,1
+Nestle,Culinary,Buitoni,1
+Nestle,Culinary,DiGiorno,1
+Nestle,Culinary,Herta,1
+Nestle,Culinary,Hot Pockets,1
+Nestle,Culinary,Lean Cuisine,1
+Nestle,Culinary,Maggi,1
+Nestle,Culinary,Stouffer's,1
+Nestle,Culinary,Thomy,1
+Nestle,Culinary,Tombstone,1
+Nestle,Dairy,Carnation,1
+Nestle,Dairy,Coffee-Mate,1
+Nestle,Dairy,La Laitière,1
+Nestle,Dairy,Nido,1
+Nestle,Drinks,Juicy Juice,1
+Nestle,Drinks,Milo,1
+Nestle,Drinks,Nesquik,1
+Nestle,Drinks,Nestea,1
+Nestle,Food service,Chef,1
+Nestle,Food service,Chef-Mate,1
+Nestle,Food service,Lean Cuisine,1
+Nestle,Food service,Maggi,1
+Nestle,Food service,Milo,1
+Nestle,Food service,Minor's,1
+Nestle,Food service,Nescafé,1
+Nestle,Food service,Nestea,1
+Nestle,Food service,Sjora,1
+Nestle,Food service,Stouffer's,1
+Nestle,Healthcare nutrition,Boost,1
+Nestle,Healthcare nutrition,Nutren Junior,1
+Nestle,Healthcare nutrition,Peptamen,1
+Nestle,Healthcare nutrition,Resource,1
+Nestle,Ice cream,Dreyer’s,1
+Nestle,Ice cream,Extrême,1
+Nestle,Ice cream,Häagen-Dazs,1
+Nestle,Ice cream,Mövenpick,1
+Nestle,Ice cream,Nestlé Ice Cream,1
+Nestle,Petcare,Alpo,1
+Nestle,Petcare,Bakers Complete,1
+Nestle,Petcare,Beneful,1
+Nestle,Petcare,Cat Chow,1
+Nestle,Petcare,Chef Michael’s Canine Creations,1
+Nestle,Petcare,Dog Chow,1
+Nestle,Petcare,Fancy Feast,1
+Nestle,Petcare,Felix,1
+Nestle,Petcare,Friskies,1
+Nestle,Petcare,Gourmet,1
+Nestle,Petcare,Purina,1
+Nestle,Petcare,Purina ONE,1
+Nestle,Petcare,Purina Pro Plan,1
+Nestle,Sport nutrition,PowerBar ,1
+Nestle,Weight management,Jenny Craig ,1

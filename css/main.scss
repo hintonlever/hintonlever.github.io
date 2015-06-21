@@ -1,0 +1,217 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+
+
+// Our variables
+$base-font-family: Segoe UI Light;
+$base-font-size:   16px;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.5;
+
+$spacing-unit:     30px;
+
+$text-color:       #111;
+$background-color: #fdfdfd;
+$brand-color:      #2a7ae2;
+
+$grey-color:       #828282;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark:  darken($grey-color, 25%);
+
+// Width of the content area
+$content-width:    800px;
+
+$on-palm:          600px;
+$on-laptop:        800px;
+
+
+.site-logo {
+
+    margin-left: 5px;
+    float:left ;
+    height: 56px;
+    
+}
+    
+.site-logo > img {
+
+        margin-top: 10px;
+    width:26px;
+    height:26px;  
+}
+
+
+// Using media queries with like this:
+// @include media-query($on-palm) {
+//     .wrapper {
+//         padding-right: $spacing-unit / 2;
+//         padding-left: $spacing-unit / 2;
+//     }
+// }
+@mixin media-query($device) {
+    @media screen and (max-width: $device) {
+        @content;
+    }
+}
+
+
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+        "base",
+        "layout",
+        "syntax-highlighting"
+;
+
+
+
+
+svg {
+
+    overflow:hidden; // for IE clipping
+    margin:0 auto;
+
+}
+// IMDB TOP 250
+circle {
+    fill: #ccc;
+    stroke: #999;
+    pointer-events: all;
+}
+
+circle.parent {
+    fill: #1f77b4;
+    fill-opacity: .1;
+    stroke: steelblue;
+}
+
+circle.parent:hover {
+    stroke: #ff7f0e;
+    stroke-width: .5px;
+}
+
+circle.child {
+    pointer-events: none;
+}
+
+// Live earthquakes
+
+
+.stations, .stations svg {
+    position: absolute;
+}
+
+.stations svg {
+
+    font: 10px sans-serif;
+}
+
+
+
+// portfolio
+.info-tile {
+    display:inline-block;
+    position:relative;
+    float:left;
+    width:150px;
+    height:150px;
+    margin:5px;
+    border-color: #000000;
+    border-width: 0px;
+    border-style:solid;
+
+
+
+
+}
+.info-tile:hover {
+    border-color:#cccccc;
+
+}
+
+.info-tile .title {
+    position:absolute;
+    left:0px;
+    bottom:0px;
+    margin:5px 0 5px;
+    padding: 0 5px 0;
+    color:red;
+    text-align:left;
+    font-family: Segoe UI Light;
+    font-size:15px;
+    background-color: hsla(0,100%,100%,0.9);     
+}
+
+.info-tile .date {
+    color:black;
+    font-size:10px;
+  
+}
+.info-tile a {
+    position:absolute;
+    left:0;
+    top:0;
+    padding:10px;
+    width:130px;
+    height:130px;
+    background-color: hsla(0,100%,100%,0);
+
+
+}
+
+.info-tile a:hover {
+    background-color: hsla(0,100%,100%,0.5);  
+}
+
+.info-tile img {
+
+    width:150px;
+    height:150px;
+}
+
+
+.tile {
+    display:inline-block;
+    position:relative;
+    width: 78px;
+    height: 78px;
+    margin:1px;
+
+
+}
+
+.tile img {
+    position:absolute;
+    left:0;
+    top:0;
+    width: 100%;
+    height: 100%;
+
+}
+
+.tile a {
+    position:absolute;
+    left:0;
+    top:0;
+    width: 78px;
+    height: 50px;
+    padding:14px 0 14px;
+    color: rgba(0,0,0,0);
+
+    
+    font-size:50px;
+    line-height:50px; 
+    text-align: center;
+
+
+}
+
+.tile a:hover {
+    color:white;
+
+    background: rgba(0, 0, 0, 0.7);
+
+}

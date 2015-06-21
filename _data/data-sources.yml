@@ -1,0 +1,4 @@
+- name: Google Trends
+  link: https://www.google.co.uk/trends/
+  description:  Compare trends in Google searches over time with key moments highlighted.
+  category: Inspiration

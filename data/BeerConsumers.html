@@ -1,0 +1,169 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>D3 Test</title>
+        <script type="text/javascript" src="http://d3js.org/d3.v3.min.js"></script>
+	
+<style>
+.chart rect {
+  stroke: white;
+  fill: steelblue;
+}
+
+.chart .label {
+	fill : black;
+	}
+	
+.chart .axislabel {
+	font-family:"Arial";
+	font-size:9px;
+	}
+
+
+</style>
+
+		
+    </head>
+    <body>
+        <script type="text/javascript">
+
+// get beer data here
+// Used tutorial ... 
+var data = [4, 8, 15, 16, 23, 42,50];
+
+var dataset = [];
+
+
+d3.csv("AlcoholConsumption.csv",
+
+	// file is loaded into csv variable which is then passed to the function
+	function(csv) {
+
+	dataset = csv;
+	dataset2 = d3.nest()
+				.key(function(d) {return d.Country;})
+				.key(function(d) {return d.Wine;})
+				.entries(dataset);
+
+	visualise();
+
+}
+);
+
+
+function visualise() {
+	//console.log(dataset, "message - data is passed to visualise");
+	//console.log(dataset2, "message - modified");
+
+	var countries = [];
+	for (i=0;i<dataset.length;i++)
+	{
+		countries.push(dataset[i]["Country"]);
+	};
+	
+	
+	var datadisp = [];
+	
+	for (i=0;i<dataset.length;i++)
+	{
+		datadisp.push(+dataset[i]["Spirits"]);
+	};
+	
+	
+	console.log(d3.max(countries));
+	
+	var chartwidth = 500;
+	var chartheight = 1000;
+
+	var marginleft = 200;
+	var marginupper = 15;
+
+	var w = chartwidth - marginleft;
+	var h = chartheight - marginupper;
+
+	// this is a function, although it looks like an object
+	var x = d3.scale.linear()
+		.domain([0, d3.max(datadisp)])
+		.range([0, w]);
+		
+		
+	var y3 = d3.scale.ordinal()
+		.domain(datadisp)
+		.rangeBands([0, h]);
+	
+	var y = d3.scale.ordinal()
+		.domain(countries)
+		.rangeBands([0, h]);
+	
+	
+	var chart = d3.select("body").append("svg")
+		.attr("class", "chart")
+		.attr("width", chartwidth)
+		.attr("height", chartheight)
+		.append("g")  // g is a container element
+		.attr("transform", "translate("+ marginleft + "," + marginupper +")");
+	
+	
+	chart.selectAll("line")
+		.data(x.ticks(10))
+		.enter().append("line")
+		.attr("x1", x)
+		.attr("x2", x)
+		.attr("y1", 0)
+		.attr("y2", h)
+		.style("stroke", "#ccc");
+
+	chart.selectAll("rect")
+		.data(datadisp)
+		.enter().append("rect")
+		.attr("y", y3)
+		.attr("width", x)
+		.attr("height",y3.rangeBand());
+
+	chart.selectAll("text")
+		.data(datadisp)
+		.enter().append("text")
+		.attr("class","label")
+		.attr("x", x)
+		.attr("y", function(d) { return y3(d) + y3.rangeBand() / 2; })
+		.attr("dx", -3) // padding-right
+		.attr("dy", ".35em") // vertical-align: middle
+		.attr("text-anchor", "begin") // text-align: right
+		.text(String);
+
+	
+	chart.append("line")
+		.attr("y1", 0)
+		.attr("y2", h)
+		.style("stroke", "black");
+	
+	chart.selectAll(".rule")
+		.data(x.ticks(10))
+		.enter().append("text")
+		.attr("class", "rule")
+		.attr("x", x)
+		.attr("y", 0)
+		.attr("dy", -3)
+		.attr("text-anchor", "middle")
+		.text(String);
+		
+	chart.selectAll(".country")
+		.data(countries)
+		.enter().append("text")
+		.attr("class","axislabel")
+		.attr("x", 0)
+		.attr("y", function(d) { return y(d) + y.rangeBand() / 2; })
+		.attr("dx", -3) // padding-right
+		.attr("dy", ".35em") // vertical-align: middle
+		.attr("text-anchor", "end") // text-align: right
+		.text(String);
+		
+};
+        </script>
+            <input type=button value="Refresh" onClick="history.go()">
+
+    </body>
+</html> 
+

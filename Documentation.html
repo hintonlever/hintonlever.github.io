@@ -1,0 +1,30 @@
+---
+layout: default
+title: Docs
+permalink: /Docs/
+---
+
+
+<div class="home">
+
+  <h1 class="page-heading">Documentation</h1>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+    {% if post.type == "doc" %}
+    <li class="doc">
+        <a href="{{ post.url | prepend: site.baseurl }}">
+            <div class="title">
+                {{post.title}}
+            </div>
+        </a>
+        <div class="date">{{ post.date | date: "%b %-d, %Y" }}</div>
+    </li>
+    {% endif %}
+    {% endfor %}
+
+  </ul>
+
+
+
+</div>

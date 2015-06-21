@@ -1,0 +1,34 @@
+---
+layout: default
+title: Data Sources
+permalink: /Data/
+---
+
+
+<div class="home">
+
+  <h1 class="page-heading">Documentation</h1>
+
+  <ul class="post-list">
+      {% for resource in site.data.data-sources %}
+        <div class="resource">
+      
+            <h3>
+                    {{resource.name}}
+            </h3>
+            <a href="{{resource.link}}">
+                {{resource.link}}
+            </a>
+            <div class="description">
+                {{resource.description}}
+            </div>
+
+        </div>
+      
+      {% endfor %}
+
+  </ul>
+
+
+
+</div>

@@ -1,0 +1,32 @@
+---
+layout: default
+title: Visualisations
+permalink: /Visualisations/
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Visualisations</h1>
+
+  <ul class="post-list">
+         <div class="central-container">
+    {% for post in site.posts %}
+             {% if post.type == "visualisation" %}
+        <div class="info-tile">
+            <div class="title">
+                    {{post.title}}
+                <div class="date">{{ post.date | date: "%b %-d, %Y" }}</div>
+            </div>
+
+            <a href="{{ post.url | prepend: site.baseurl }}"></a>
+            <img src={{post.img}}>
+        </div>
+      
+             {% endif %}
+    {% endfor %}
+      </div>
+  </ul>
+
+
+
+</div>

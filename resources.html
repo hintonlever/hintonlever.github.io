@@ -1,0 +1,34 @@
+---
+layout: default
+title: Resources
+permalink: /Resources/
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Resources</h1>
+
+  
+  <ul class="post-list">
+      {% for resource in site.data.resources %}
+        <div class="resource">
+      
+            <h3>
+                    {{resource.name}}
+            </h3>
+            <a href="{{resource.link}}">
+                {{resource.link}}
+            </a>
+            <div class="description">
+                {{resource.description}}
+            </div>
+
+        </div>
+      
+      {% endfor %}
+      
+  </ul>
+
+
+
+</div>
