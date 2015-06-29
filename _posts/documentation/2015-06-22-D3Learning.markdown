@@ -1,0 +1,49 @@
+---
+layout: post
+title:  "Learning D3"
+date:   2015-06-20 18:15:00
+tags: CSS
+type: doc
+---
+
+https://www.dashingd3js.com/
+
+
+http://chimera.labs.oreilly.com/books/1230000000345/
+
+- data() binds data to elements, but also returns the update selection.
+- The update selection can contain enter and exit selections, which can be accessed via enter() and exit().
+- When there are more values than elements, an enter selection will reference the placeholder, not-yet-existing elements.
+- When there are more elements than values, an exit selection will reference the elements without data.
+- Data joins determine how values are matched with elements.
+- By default, data joins are performed by index, meaning in order of appearance.
+- For more control over data joins, you can specify a key function.
+
+
+pointer-events: none; // ignore events on certain items
+
+
+Websites
+d3js.org
+Your starting point for everything D3.
+github.com/mbostock/d3/wiki/Gallery
+The D3 gallery contains hundreds of examples. Add your own work!
+bl.ocks.org/mbostock
+Even more examples, in this case all by Mike Bostock, each one typically highlighting just one of D3’s features.
+github.com/mbostock/d3/wiki/API-Reference
+The D3 API reference, an essential reference for every method and its parameters.
+stackoverflow.com/questions/tagged/d3.js
+When you get stuck, post questions on StackOverflow with the d3.js tag.
+groups.google.com/forum/?fromgroups#!forum/d3-js
+Everyone who’s anyone is on the D3 Google Group. Find out about the latest projects and developments here. (Please save technical questions for StackOverflow.)
+bl.ocks.org
+A service for posting code hosted on GitHub’s Gist, by Mike Bostock. Perfect for quickly sharing your work with others, such as when seeking help on StackOverflow or boasting about your latest triumph on the Google Group.
+blog.visual.ly/creating-animations-and-transitions-with-d3-js/
+An excellent tutorial on Creating Animations and Transitions With D3 with lots of inline, interactive examples by Jérôme Cukier.
+d3noob.org
+A new, promising resource for D3 tips and tricks.
+tributary.io
+A live-coding environment for experimenting with D3 code, by Ian Johnson.
+D3 Plug-ins
+A listing of all the official plug-ins that extend D3’s functionality, in case it doesn’t do enough for you already.
+

@@ -4,15 +4,22 @@ title: Resume
 permalink: /Resume/
 ---
 
-[LinkedIn](https://www.linkedin.com/pub/ben-hinton-lever/36/422/2b1)
-
 
 # Highlights
 
 
 
+# Technical skills
+- Advanced Excel, VBA
+- Extensive use of Powerpoint
+- Strong experience in D3, R, SQL 
+- Working knowledge of JavaScript, Python
+
 
 # Work experience
+
+
+# Side projects
 
 
 
@@ -22,5 +29,6 @@ permalink: /Resume/
 
 # Additional
 
+PADI Licensed with Dry Suit Speciality
 
 
