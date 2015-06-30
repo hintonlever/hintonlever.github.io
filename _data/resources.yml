@@ -59,7 +59,7 @@
   description: A list of all the plot types in ggplot2
   category: [R]
   
- - name: Correlation coefficients
+- name: Correlation coefficients
   link:  http://www.statisticssolutions.com/correlation-pearson-kendall-spearman/
   description: A list of correlation coefficients
   category: [Statistics]
